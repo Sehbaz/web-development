@@ -105,3 +105,28 @@ p {
 .pricing-column {
   padding: 3% 2%;
 }
+/* CTA section */
+#cta {
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 7% 15%;
+  color: white;
+}
+/* Footer Section */
+#footer {
+  background-color: white;
+  text-align: center;
+  margin: 8%;
+}
+.footer-icon {
+  margin: 20px;
+}
+@media (max-width: 1028px) {
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
+  #title {
+    text-align: center;
+  }
+}
