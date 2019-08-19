@@ -25,7 +25,8 @@ p {
   font-weight: 100;
   color: #8f8f8f;
 }
-
+.big-heading {
+}
 .container-fluid {
   padding: 3% 15%;
 }
